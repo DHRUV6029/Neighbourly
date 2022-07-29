@@ -22,20 +22,6 @@ You will need to install the following locally:
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 - [Azure Tools for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
 
-On Mac, you can do this with:
-
-```bash
-# install pipenv
-brew install pipenv
-
-# install azure-cli
-brew update && brew install azure-cli
-
-# install azure function core tools 
-brew tap azure/functions
-brew install azure-functions-core-tools@3
-```
-
 ## Project Instructions
 
 In case you need to return to the project later on, it is suggested to store any commands you use so you can re-create your work. You should also take a look at the project rubric to be aware of any places you may need to take screenshots as proof of your work (or else keep your resource up and running until you have passed, which may incur costs).
